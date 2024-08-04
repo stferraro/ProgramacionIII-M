@@ -1,4 +1,4 @@
-# Repositorio de Ejercicios del Curso de Programación 3
+# Repositorio de Material del Curso de Programación 3
 
 ![imagen_curso](recursos/python.jpg)
 
