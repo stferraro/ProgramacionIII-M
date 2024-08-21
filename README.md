@@ -27,3 +27,34 @@ Unidad I - Fundamentos básicos:
 	- Primer ejemplo en Python.
 
 
+Unidad II - Elementos básicos:
+
+- Definición de Variable.
+- Definición de Constante.
+- Técnicas de Naming.
+- Tipos de datos.
+	- Numéricos.
+		- Enteros.
+		- Flotantes o reales
+		- Complejos
+	- Booleanos
+	- Cadena de caracteres
+- Operadores
+	- Operadores aritméticos.
+	- Operadores relacionales.
+	- Operadores lógicos.
+	- Operadores de asignación
+- Comentarios.
+- UML.
+
+Unidad VI - Colecciones:
+
+- Definición 
+- Colecciones en Python
+	- Listas
+	- Tuplas
+	- Diccionarios
+- Usos y generalidades.
+
+
+
