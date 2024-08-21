@@ -1,2 +1,7 @@
 /examenes/
 examenes/
+*.odp
+*.docx
+*.doc
+*.pptx
+*.ppt
