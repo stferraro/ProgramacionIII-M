@@ -56,5 +56,23 @@ Unidad VI - Colecciones:
 	- Diccionarios
 - Usos y generalidades.
 
+Unidad V - Cadena de Caracteres:
+
+- Cadena de caracteres 
+- Indexación
+- Slicing
+- Métodos
+	- capitalize() 
+	- lower()
+	- upper()
+	- strip()
+	- replace()
+	- swapcase()
+	- count()
+	- isalnum()
+	- isalpha()
+	- zfill()
+	- split()
+
 
 
