@@ -74,5 +74,14 @@ Unidad V - Cadena de Caracteres:
 	- zfill()
 	- split()
 
+Unidad VI - Ciclos o bucles
+
+- Las estructuras repetitivas
+- Definición
+- Uso
+- Ciclo while
+- Ciclo for
+- Ejercicios y ejemplos
+
 
 
