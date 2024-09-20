@@ -83,5 +83,17 @@ Unidad VI - Ciclos o bucles
 - Ciclo for
 - Ejercicios y ejemplos
 
+Unidad VII - Funciones
+
+- Definición
+- Algoritmo de Divide et impera(Divide y Vencerás)
+- Funciones en Python
+	- Uso y generalidades
+	- Características
+	- Cuerpo de una función
+	- Parametros 
+	- Uso del return
+
+
 
 
